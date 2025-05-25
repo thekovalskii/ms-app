@@ -1,9 +1,9 @@
 [project]
-name = "ms-app"
+name = "products-ms"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "thediogen",email = "evgendvodnenko@gmail.com"}
+    {name = "thekowalskii",email = "thekovalskii@gmail.com"}
 ]
 readme = "README.md"
 requires-python = "^3.10"

@@ -43,8 +43,10 @@ def create(product: Product):
 
 @app.get('/products/{pk}')
 def get(pk: str):
-    
-    return format(pk=pk)
+
+    result = format(pk=pk)
+
+    return result
 
 
 @app.delete('/products/{pk}')
